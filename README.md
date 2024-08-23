@@ -1,16 +1,14 @@
-- 👋 Hi, I’m @YX0505
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hello, World!
+I’m a coding enthusiast and currently expanding my skills in the tech world.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning Laravel.
+- 💞️ I’m looking to collaborate on AI-powered applications.
+- 📫 How to reach me: GitHub @YX0505
+- 😄 Pronouns: Me
+- ⚡ Fun fact: I believe that if the code can run, then don't touch it anymore.
 
 <!---
 YX0505/YX0505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
