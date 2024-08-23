@@ -2,7 +2,7 @@
 I’m a coding enthusiast and currently expanding my skills in the tech world.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Laravel.
-- 💞️ I’m looking to collaborate on AI-powered applications.
+- 💞️ I’m looking to collaborate on open-source projects that are related to AI integration.
 - 📫 How to reach me: GitHub @YX0505
 - 😄 Pronouns: Me
 - ⚡ Fun fact: I developed a recipe-sharing platform, blending my love for food and code!
