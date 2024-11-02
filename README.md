@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=800&size=26&pause=1000&color=2C94F7&width=435&lines=Hello+World+%F0%9F%91%8B%2C+I'm+a+Software+Developer" alt="Typing SVG" /></summary>
+    <summary><h1 style="display: inline-block"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=800&size=26&pause=1000&color=2C94F7&width=435&lines=Hello+World+%F0%9F%91%8B;I'm+a+Software+Developer" alt="Typing SVG" /></summary>
   </ul>
 </div>
       
